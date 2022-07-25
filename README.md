@@ -2,7 +2,7 @@
 
 This system is inspired on Attack on Titan anime/manga.
 
-For educational purposes only.
+FOR EDUCATIONAL PURPOSES ONLY
 
 ![Screenshot (902)](https://user-images.githubusercontent.com/95606482/180783694-0237fe6d-4e88-402b-8087-5ea8ff9bcec7.png)
 ![Screenshot (903)](https://user-images.githubusercontent.com/95606482/180783711-68d942af-e9fa-4d5e-ab2f-1d9b7e8ea17e.png)
