@@ -1,4 +1,4 @@
-# Enlisment_System_AOT
+# Enlisment and Record Management System AOT
 
 FOR EDUCATIONAL PUPOSES ONLY
 
