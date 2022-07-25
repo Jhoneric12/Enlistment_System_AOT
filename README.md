@@ -1,6 +1,7 @@
 # ENLISTMENT AND RECORDS MANAGEMENT SYSTEM
 
 This system is inspired on Attack on Titan anime/manga. 
+
 Built using C# and MySql.
 
 For educational purposes only.
