@@ -1,4 +1,4 @@
-# Enlisment and Record Management System AOT
+# Enlistment and Records Management System AOT
 
 FOR EDUCATIONAL PUPOSES ONLY
 
